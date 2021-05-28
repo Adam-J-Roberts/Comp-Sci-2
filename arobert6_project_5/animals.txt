@@ -1,0 +1,30 @@
+12
+1
+d
+1234567890
+Mr Biggles
+Pitbull
+54
+0
+c
+0123456789
+Cat Mellis
+breed
+8
+0
+d
+9012345678
+Gretchen Carlson
+Hound dog
+5
+0
+b
+8901234567
+Polly Wantsa
+breed
+8
+1
+c
+7890123456
+Marvin Borris
+breed
